@@ -1,3 +1,4 @@
 Ik ben begonnen met het implementeren van test code voor het identificeren van ingrediënten. 
 Ik heb hiervoor naar het hue diagrammetje gekeken om hier de juiste kleuren uit te halen, maar die komen niet overeen met mijn uitkomsten. 
+Het zou kunnen zijn dat de kleuren in de image niet daadwerkelijk die kleuren zijn. Dit moet ik nog testen met een color picker.
 Ik heb nu met de hand verschillende waardes getest (de testcode is te vinden op mijn github onder de map "Test code"). Ik heb nu de tomatensaus, ananas en tomatensaus met ham kunnen highlighten.  

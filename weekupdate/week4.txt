@@ -1,0 +1,4 @@
+Deze week heb ik ook de basis van de pizza geindentifiseerd. 
+Daarbij heb ik alle percentages berekend per ingrediënt en deze vergeleken met die van het paper. Hierbij kwam ik tot de conclusie dat deze bijna overeen komen.
+Na wat testen ben ik erachter gekomen dat mijn color preserve functie ook witte pixels pakken die niet op de pizza horen. Hiermee ga ik het nog over hebben met Niels of Diederik in het vragenuur.
+Verder heb ik een functie geschreven die het aantal pixels telt van de pizza zelf. Dit gebruik ik weer voor het berekenen van de percentages.

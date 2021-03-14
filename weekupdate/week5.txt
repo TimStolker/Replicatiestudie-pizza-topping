@@ -1,0 +1,6 @@
+Deze week heb ik me vooral gericht op het fixen van het identificeren van de ingrediënten. 
+Ik zou deze week al bezig moeten zijn met het segmenteren, maar helaas kost het identificeren van de ingrediënten meer tijd dan verwacht.
+De code is zo goed als werkend voor zowel de pepperoni als hawaii pizza's. Alleen het identificeren van de ananas gaat nog niet helemaal goed.
+Ik ga in aankomend vragenuur nog een aantal vragen stellen aan Niels of Diederik over de tomaten pizza, het verbetered van mijn ananas identificatie en de planning.
+Verder heb ik het een en ander opgezocht over segmentatie zodat ik daar volgende week snel mee aan de gang kan. Het segmentatie deel lijkt kleiner te zijn dan verwacht.
+Wat betreft de resultaten van de code die ik nu geschreven heb lijkt het aardig op die van het paper.

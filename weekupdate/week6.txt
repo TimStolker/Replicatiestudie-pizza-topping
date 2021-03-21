@@ -1,0 +1,11 @@
+Deze week heb ik vooral aan het segmentatie gedeelte gewerkt. Het eerste wat ik heb gedaan deze week is de images verbeteren. 
+Door de image (de image van de paper met alle 3 de pizza's) erg te vergroten en hiervan een printscreen te maken is de image veel scherper geworden.
+Dit merkte ik al snel omdat mijn waardes niet meer geheel klopte. De images hebben nu meer 'echte' kleur waardes lijkt het.
+Ik heb hierbij ook de beslissing gemaakt om de tomaten pizza achterwegen te laten, de tomaten en tomaten sauss lijken zo erg op elkaar dat ik er geen verschil in identificatie 
+mee heb kunnen maken. Ook de geraspte kaas heb ik niet goed kunnen identificeren, het pakt te veel pixels waardoor de algemene verhouding niet correct is. 
+Daarnaast was de segmentatie door middel van radialen niet echt mogelijk. Het is erg lastig om het precieze middenpunt te vinden van de pizza, vervolgens de exacte buitenrand
+te pakken en hiertussen 4 gelijke circels van te maken.
+Deze 3 punten kunnen overigens wel als voortbouw punten worden aangezien voor eventuele uitbereidingen.
+Verder heb ik deze week een splits array aangemaakt die de image opsplitst in 4 gelijken images. Vervolgens heb ik een printToppinngQuarters functie gemaakt.
+Deze functie berekent de topping per kwart van de pizza. Hier komen mooie resultaten uit die redelijk overeen komen met die van het paper. 
+Volgende week ben ik van plan de code mooi schoon te maken, commentaar toe te voegen en het verslag te schrijven.

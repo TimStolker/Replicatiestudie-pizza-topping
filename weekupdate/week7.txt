@@ -1,0 +1,2 @@
+Deze week heb ik commentaar bij de code gezet waar nodig. De meeste functie namen spreken voorzich. Ook heb ik error handling geinplementeerd bij het type pizza. 
+Verder heb ik deze week mijn paper geschreven met de materialen, methodes, resultaten en uitbereidings mogelijkheden.
